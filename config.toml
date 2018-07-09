@@ -1,8 +1,8 @@
-baseURL = "http://lidesdk.github.io/docs"
+baseURL = "http://lidesdk.github.io"
 languageCode = "en-us"
 theme = "after-dark"
 contentdir = "content"
-publishdir = "docs"
+publishdir = "build"
 builddrafts = false
 baseUrl = ""
 canonifyurls = true
