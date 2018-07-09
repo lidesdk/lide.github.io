@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lidesdk.github.io/post/shell-release-0.1/</loc>
-    <lastmod>2018-07-09T08:12:50-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lidesdk.github.io/framework/</loc>
-    <lastmod>2018-07-09T06:41:45-05:00</lastmod>
+    <lastmod>2018-03-27T08:12:50-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://lidesdk.github.io/shell/</loc>
-    <lastmod>2018-07-09T06:31:47-05:00</lastmod>
+    <lastmod>2018-03-27T08:12:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lidesdk.github.io/post/shell-release-0.1/</loc>
+    <lastmod>2018-03-27T08:12:50-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://lidesdk.github.io/</loc>
-    <lastmod>2018-07-09T08:12:50-05:00</lastmod>
+    <lastmod>2018-03-27T08:12:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,37 +30,37 @@
   
   <url>
     <loc>https://lidesdk.github.io/tags/framework/</loc>
-    <lastmod>2018-07-09T06:41:45-05:00</lastmod>
+    <lastmod>2018-03-27T08:12:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lidesdk.github.io/post/</loc>
-    <lastmod>2018-07-09T08:12:50-05:00</lastmod>
+    <lastmod>2018-03-27T08:12:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lidesdk.github.io/tags/release/</loc>
-    <lastmod>2018-07-09T08:12:50-05:00</lastmod>
+    <lastmod>2018-03-27T08:12:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lidesdk.github.io/categories/releases/</loc>
-    <lastmod>2018-07-09T08:12:50-05:00</lastmod>
+    <lastmod>2018-03-27T08:12:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lidesdk.github.io/tags/shell/</loc>
-    <lastmod>2018-07-09T08:12:50-05:00</lastmod>
+    <lastmod>2018-03-27T08:12:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lidesdk.github.io/tags/</loc>
-    <lastmod>2018-07-09T06:41:45-05:00</lastmod>
+    <lastmod>2018-03-27T08:12:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,28 +6,28 @@
     <description>Recent content in Shell on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jul 2018 08:12:50 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 27 Mar 2018 08:12:50 -0500</lastBuildDate>
     
 	<atom:link href="https://lidesdk.github.io/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>lide shell release 0.1</title>
-      <link>https://lidesdk.github.io/post/shell-release-0.1/</link>
-      <pubDate>Mon, 09 Jul 2018 08:12:50 -0500</pubDate>
+      <title>Lide Shell 0.1</title>
+      <link>https://lidesdk.github.io/shell/</link>
+      <pubDate>Tue, 27 Mar 2018 08:12:50 -0500</pubDate>
       
-      <guid>https://lidesdk.github.io/post/shell-release-0.1/</guid>
+      <guid>https://lidesdk.github.io/shell/</guid>
       <description>Lide Shell is a project that gives us the possibility to interact with a totally controlled environment for the execution of the Lide framework. It is built with different libraries that are interoperable with most Lua interpreters that are used by default.
 In addition, the Lua scripts allow us to manage different libraries or modules that are organized in &amp;ldquo;packages&amp;rdquo; according to a specific specification called lide.manifest.
 You can install lide shell on Windows OS using automatic installer:</description>
     </item>
     
     <item>
-      <title>Lide Shell 0.1</title>
-      <link>https://lidesdk.github.io/shell/</link>
-      <pubDate>Mon, 09 Jul 2018 06:31:47 -0500</pubDate>
+      <title>lide shell release 0.1</title>
+      <link>https://lidesdk.github.io/post/shell-release-0.1/</link>
+      <pubDate>Tue, 27 Mar 2018 08:12:50 -0500</pubDate>
       
-      <guid>https://lidesdk.github.io/shell/</guid>
+      <guid>https://lidesdk.github.io/post/shell-release-0.1/</guid>
       <description>Lide Shell is a project that gives us the possibility to interact with a totally controlled environment for the execution of the Lide framework. It is built with different libraries that are interoperable with most Lua interpreters that are used by default.
 In addition, the Lua scripts allow us to manage different libraries or modules that are organized in &amp;ldquo;packages&amp;rdquo; according to a specific specification called lide.manifest.
 You can install lide shell on Windows OS using automatic installer:</description>
