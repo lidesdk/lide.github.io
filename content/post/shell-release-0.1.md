@@ -1,6 +1,6 @@
 +++
-title = "Estemen"
-date = 2018-07-09T01:27:22-05:00
+title = "Shell Release 0"
+date = 2018-07-09T07:13:42-05:00
 description = "Thank you for choosing After Dark."
 draft = true
 toc = false
@@ -10,9 +10,6 @@ images = [
   "https://source.unsplash.com/category/technology/1600x900"
 ] # overrides the site-wide open graph image
 +++
-
-
-OIGAN PZ a este men se kree muuy zeñoron kanson y bea como es conmigo me esta tirando de ke no ze escribir pss, un bruto mas tambn c poner komas en los testox, dios t bendiga analfabta. (y Escribo asi debido a Mi qoeficiente en escritura antigua)
 
 Before you continue, please take a moment to configure your archetypes.
 
