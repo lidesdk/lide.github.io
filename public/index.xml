@@ -6,31 +6,20 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jul 2018 08:14:43 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jul 2018 08:12:50 -0500</lastBuildDate>
     
 	<atom:link href="https://lidesdk.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Shell</title>
-      <link>https://lidesdk.github.io/post/shell/</link>
-      <pubDate>Mon, 09 Jul 2018 08:14:43 -0500</pubDate>
-      
-      <guid>https://lidesdk.github.io/post/shell/</guid>
-      <description>&lt;p&gt;Before you continue, please take a moment to configure your archetypes.&lt;/p&gt;
-
-&lt;p&gt;Archetypes are located in the &lt;code&gt;archetypes&lt;/code&gt; directory in the source of your site. To learn more about archetypes, visit &lt;a href=&#34;https://gohugo.io/content-management/archetypes/&#34;&gt;Archetypes&lt;/a&gt; on the Hugo website. And when you&amp;rsquo;re ready, check out the &lt;a href=&#34;https://comfusion.github.io/after-dark/#customizing&#34;&gt;Customizing&lt;/a&gt; section of the After Dark documentation for additional options.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Shell Release 0</title>
+      <title>lide shell release 0.1</title>
       <link>https://lidesdk.github.io/post/shell-release-0.1/</link>
       <pubDate>Mon, 09 Jul 2018 08:12:50 -0500</pubDate>
       
       <guid>https://lidesdk.github.io/post/shell-release-0.1/</guid>
-      <description>&lt;p&gt;Before you continue, please take a moment to configure your archetypes.&lt;/p&gt;
-
-&lt;p&gt;Archetypes are located in the &lt;code&gt;archetypes&lt;/code&gt; directory in the source of your site. To learn more about archetypes, visit &lt;a href=&#34;https://gohugo.io/content-management/archetypes/&#34;&gt;Archetypes&lt;/a&gt; on the Hugo website. And when you&amp;rsquo;re ready, check out the &lt;a href=&#34;https://comfusion.github.io/after-dark/#customizing&#34;&gt;Customizing&lt;/a&gt; section of the After Dark documentation for additional options.&lt;/p&gt;</description>
+      <description>Lide Shell is a project that gives us the possibility to interact with a totally controlled environment for the execution of the Lide framework. It is built with different libraries that are interoperable with most Lua interpreters that are used by default.
+In addition, the Lua scripts allow us to manage different libraries or modules that are organized in &amp;ldquo;packages&amp;rdquo; according to a specific specification called lide.manifest.
+You can install lide shell on Windows OS using automatic installer:</description>
     </item>
     
     <item>
