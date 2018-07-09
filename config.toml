@@ -5,7 +5,7 @@ contentdir = "content"
 publishdir = "build"
 builddrafts = false
 baseUrl = ""
-canonifyurls = true
+canonifyurls = false
 author = "Hernan Dario Cano"
 disqusShortname = "lide team"
 
