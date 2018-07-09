@@ -1,6 +1,6 @@
 +++
-title = "Shell Release 0"
-date = 2018-07-09T08:12:50-05:00
+title = "Shell"
+date = 2018-07-09T08:14:43-05:00
 description = "Thank you for choosing After Dark."
 draft = true
 toc = false
