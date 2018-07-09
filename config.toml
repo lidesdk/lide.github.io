@@ -1,4 +1,4 @@
-baseURL = "http://lidesdk.github.io/public"
+baseURL = "http://lidesdk.github.io/docs"
 languageCode = "en-us"
 theme = "after-dark"
 contentdir = "content"
