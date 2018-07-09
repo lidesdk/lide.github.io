@@ -21,7 +21,10 @@ git add public && git commit -m "Initial public subtree commit"
 Use subtree push to send it to the `master` branch on GitHub.
 
 ```sh
-git subtree push --prefix public origin master
+git subtree split --prefix build/ -b master
+git push -f origin master:master
+
+!!!git subtree push --prefix public origin master
 ```
 
 Boom. If your folder isn’t called `public`, then you’ll need to change that in each of the commands above.
