@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://lidesdk.github.io/</link>
-    <description>Recent content on </description>
+    <title>World on </title>
+    <link>https://lidesdk.github.io/tags/world/</link>
+    <description>Recent content in World on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Jul 2018 08:14:43 -0500</lastBuildDate>
     
-	<atom:link href="https://lidesdk.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lidesdk.github.io/tags/world/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -31,26 +31,6 @@
       <description>&lt;p&gt;Before you continue, please take a moment to configure your archetypes.&lt;/p&gt;
 
 &lt;p&gt;Archetypes are located in the &lt;code&gt;archetypes&lt;/code&gt; directory in the source of your site. To learn more about archetypes, visit &lt;a href=&#34;https://gohugo.io/content-management/archetypes/&#34;&gt;Archetypes&lt;/a&gt; on the Hugo website. And when you&amp;rsquo;re ready, check out the &lt;a href=&#34;https://comfusion.github.io/after-dark/#customizing&#34;&gt;Customizing&lt;/a&gt; section of the After Dark documentation for additional options.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Framework</title>
-      <link>https://lidesdk.github.io/pages/framework/</link>
-      <pubDate>Mon, 09 Jul 2018 06:41:45 -0500</pubDate>
-      
-      <guid>https://lidesdk.github.io/pages/framework/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lide Shell 0.1</title>
-      <link>https://lidesdk.github.io/pages/shell/</link>
-      <pubDate>Mon, 09 Jul 2018 06:31:47 -0500</pubDate>
-      
-      <guid>https://lidesdk.github.io/pages/shell/</guid>
-      <description>information about lide shell
-download htttp:s//dad5a6d5a6d2a.com version 0.1 date: 01.0.1-210
-dadkalfksa{fl afafsfasfs sf</description>
     </item>
     
   </channel>

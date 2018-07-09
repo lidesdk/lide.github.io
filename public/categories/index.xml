@@ -10,5 +10,14 @@
 	<atom:link href="https://lidesdk.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Technology</title>
+      <link>https://lidesdk.github.io/categories/technology/</link>
+      <pubDate>Mon, 09 Jul 2018 08:14:43 -0500</pubDate>
+      
+      <guid>https://lidesdk.github.io/categories/technology/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

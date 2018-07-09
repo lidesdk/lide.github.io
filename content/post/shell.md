@@ -2,7 +2,7 @@
 title = "Shell"
 date = 2018-07-09T08:14:43-05:00
 description = "Thank you for choosing After Dark."
-draft = true
+draft = false
 toc = false
 categories = ["technology"]
 tags = ["hello", "world"]

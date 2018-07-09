@@ -6,9 +6,28 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 09 Jul 2018 08:14:43 -0500</lastBuildDate>
     
 	<atom:link href="https://lidesdk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello</title>
+      <link>https://lidesdk.github.io/tags/hello/</link>
+      <pubDate>Mon, 09 Jul 2018 08:14:43 -0500</pubDate>
+      
+      <guid>https://lidesdk.github.io/tags/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World</title>
+      <link>https://lidesdk.github.io/tags/world/</link>
+      <pubDate>Mon, 09 Jul 2018 08:14:43 -0500</pubDate>
+      
+      <guid>https://lidesdk.github.io/tags/world/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
