@@ -17,9 +17,9 @@ disqusShortname = "lide team"
   name = "lide shell"
   weight = 2
   identifier = "lide-shell"
-  url = "/shell/"
+  url = "/pages/shell/"
 [[menu.main]]
   name = "lide framework"
   weight = 3
   identifier = "lide-framework"
-  url = "/framework/"
+  url = "/pages/framework/"
