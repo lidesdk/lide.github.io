@@ -1,7 +1,7 @@
 ---
 title: "Lide Framework 0.1"
 tags: ["framework", "release"]
-date: 2018-07-09T06:41:45-05:00
+date: 2018-03-27T08:12:50-05:00
 draft: false
 description: "First stable version of lide framework."
 ---

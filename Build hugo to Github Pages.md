@@ -12,15 +12,6 @@ Remove the `public` directory from the project’s `.gitignore` and remove tree.
 rmdir /S /Q "public" && git branch -D master && hugo --cleanDestinationDir &&  git add public && git commit -m "Update page release" && git subtree split --prefix public/ -b master && git push -f origin master:master
 ```
 
-
-### Step 3
-
-Use subtree push to send it to the `master` branch on GitHub.
-
-```sh
-git subtree split --prefix public/ -b master && git push -f origin master:master
-```
-
 Boom. If your folder isn’t called `public`, then you’ll need to change that in each of the commands above.
 
 ---

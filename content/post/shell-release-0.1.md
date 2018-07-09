@@ -1,6 +1,6 @@
 +++
 title = "lide shell release 0.1"
-date = 2018-07-09T08:12:50-05:00
+date = 2018-03-27T08:12:50-05:00
 description = "First stable version of lide shell."
 draft = false
 toc = false
