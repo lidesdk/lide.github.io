@@ -1,27 +1,37 @@
 +++
-title = "Shell Release 0"
+title = "lide shell release 0.1"
 date = 2018-07-09T08:12:50-05:00
-description = "Thank you for choosing After Dark."
+description = "First stable version of lide shell."
 draft = false
 toc = false
 categories = ["technology"]
-tags = ["hello", "world"]
+tags = ["shell", "release"]
 images = [
   "https://source.unsplash.com/category/technology/1600x900"
 ] # overrides the site-wide open graph image
 +++
 
-Before you continue, please take a moment to configure your archetypes.
+Lide Shell is a project that gives us the possibility to interact with a totally controlled environment for the execution of the Lide framework. It is built with different libraries that are interoperable with most Lua interpreters that are used by default.
 
-Archetypes are located in the `archetypes` directory in the source of your site. To learn more about archetypes, visit [Archetypes](https://gohugo.io/content-management/archetypes/) on the Hugo website. And when you're ready, check out the [Customizing](https://comfusion.github.io/after-dark/#customizing) section of the After Dark documentation for additional options.
+In addition, the Lua scripts allow us to manage different libraries or modules that are organized in "packages" according to a specific specification called lide.manifest.
 
-<!--more-->
-This information appears below the [Summary Split](https://gohugo.io/content-management/summaries/).
+You can install lide shell on Windows OS using automatic installer:
 
-After Dark supports the `bpg` image format without any additional configuration necessary. Here's an example BPG image animation:
+Download [shell-installer for Windows 10.](https://github.com/lidesdk/shell/releases/download/v0.1-beta/shell-installer-0.1-11.exe).
 
-<img src="/bpg/cinemagraph-6.bpg" alt="BPG file format example">
+```
+Required OS: Windows XP to Windows 10
+Release date: 08/08/2018
+Release version: 0.1
+Framework version: 0.1
+```
 
-BPG compresses the above animation to `48KB`, about **97% smaller** than what would be possible with GIF. In addition to animation BPG handles still images as well. Head to the [side-by-side comparisons](http://xooyoozoo.github.io/yolo-octo-bugfixes/#vallee-de-colca&jpg=s&bpg=s) to see BPG stacked up against JPEG. Create your own BPG images using the [BPG web encoder](https://webencoder.libbpg.org/) for use on your After Dark site.
 
-See the <a href="https://git.habd.as/comfusion/after-dark/src/branch/master/README.md" target="_blank" rel="noopener">After Dark `README`</a> for more info.
+<img src="/installer_screenshot.png" 
+alt="Lide shell Installer Screenshot" width="300" height="250" border="3" />
+
+With with this version you can:
+
+- Execute lua scripts.
+- Manage lide packages (lua libraries representation) `install, delete, update, search`.
+- Link packages with dependencies.
