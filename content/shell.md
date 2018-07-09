@@ -4,10 +4,9 @@ date: 2018-07-09T06:31:47-05:00
 draft: false
 ---
 
-Lide Shell is a project that allow us to install libraries, execute scripts and create or search repositories of lua libraries.
+Lide Shell is a project that gives us the possibility to interact with a totally controlled environment for the execution of the Lide framework. It is built with different libraries that are interoperable with most Lua interpreters that are used by default.
 
-![This is an image](/screenshot.png)
-
+In addition, the Lua scripts allow us to manage different libraries or modules that are organized in "packages" according to a specific specification called lide.manifest.
 
 You can install lide shell on Windows OS using automatic installer:
 
@@ -20,3 +19,14 @@ Release version: 0.1
 Framework version: 0.1
 ```
 
+
+
+![This is an image](/screenshot.png)
+
+Please read our documentation about this version for more information about how to use and tutorials for lide.
+
+With lide shell you can:
+
+- Execute lua scripts.
+- Manage lide packages (lua libraries representation) `install, delete, update, search`.
+- Link packages with dependencies.
