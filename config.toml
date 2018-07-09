@@ -1,10 +1,10 @@
-baseURL = "http://lidesdk.github.io"
+baseURL = "http://lidesdk.github.io/public"
 languageCode = "en-us"
 theme = "after-dark"
 contentdir = "content"
 publishdir = "public"
 builddrafts = false
-baseUrl = "public/"
+baseUrl = ""
 canonifyurls = true
 author = "Hernan Dario Cano"
 disqusShortname = "lide team"
