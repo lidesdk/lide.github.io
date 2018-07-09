@@ -12,7 +12,7 @@ disqusShortname = "lide team"
   name = "posts and news"
   weight = 1
   identifier = "post"
-  url = "/post/"
+  url = "/"
 [[menu.main]]
   name = "lide shell"
   weight = 2
