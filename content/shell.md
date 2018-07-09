@@ -22,7 +22,7 @@ Framework version: 0.1
 
 
 <img src="/screenshot.png" 
-alt="Lide shell cmd screenshot" width="490" height="280" border="0" />
+alt="Lide shell cmd screenshot" width="410" height="246" border="0" />
 
 Please [read our documentation about this version.](http://lide-framework.readthedocs.io/en/0.1/) for more information about how to use and tutorials for lide.
 
