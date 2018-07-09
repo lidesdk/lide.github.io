@@ -6,7 +6,7 @@
     <description>Recent content in Framework on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Mar 2018 08:12:50 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://lidesdk.github.io/tags/framework/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Lide Framework 0.1</title>
       <link>https://lidesdk.github.io/framework/</link>
-      <pubDate>Tue, 27 Mar 2018 08:12:50 -0500</pubDate>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://lidesdk.github.io/framework/</guid>
       <description>Lide Framework is a library that allows you to create multiplatform graphical interfaces from Lua language. Lide uses wxWidgets to build controls and windows, this ensures the integration of your applications with GTK + on Linux and really native controls in Windows.
