@@ -29,6 +29,12 @@
   </url>
   
   <url>
+    <loc>https://lidesdk.github.io/tags/framework/</loc>
+    <lastmod>2018-07-09T06:41:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lidesdk.github.io/post/</loc>
     <lastmod>2018-07-09T08:12:50-05:00</lastmod>
     <priority>0</priority>
@@ -41,6 +47,12 @@
   </url>
   
   <url>
+    <loc>https://lidesdk.github.io/categories/releases/</loc>
+    <lastmod>2018-07-09T08:12:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lidesdk.github.io/tags/shell/</loc>
     <lastmod>2018-07-09T08:12:50-05:00</lastmod>
     <priority>0</priority>
@@ -48,13 +60,7 @@
   
   <url>
     <loc>https://lidesdk.github.io/tags/</loc>
-    <lastmod>2018-07-09T08:12:50-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lidesdk.github.io/categories/technology/</loc>
-    <lastmod>2018-07-09T08:12:50-05:00</lastmod>
+    <lastmod>2018-07-09T06:41:45-05:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,8 +1,9 @@
----
-title: "Lide Shell 0.1"
-date: 2018-07-09T06:31:47-05:00
-draft: false
----
++++
+title= "Lide Shell 0.1"
+date= 2018-07-09T06:31:47-05:00
+draft= false
+tags = ["shell", "release"]
++++
 
 Lide Shell is a project that gives us the possibility to interact with a totally controlled environment for the execution of the Lide framework. It is built with different libraries that are interoperable with most Lua interpreters that are used by default.
 

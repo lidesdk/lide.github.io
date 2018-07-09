@@ -22,5 +22,27 @@ In addition, the Lua scripts allow us to manage different libraries or modules t
 You can install lide shell on Windows OS using automatic installer:</description>
     </item>
     
+    <item>
+      <title>Lide Framework 0.1</title>
+      <link>https://lidesdk.github.io/framework/</link>
+      <pubDate>Mon, 09 Jul 2018 06:41:45 -0500</pubDate>
+      
+      <guid>https://lidesdk.github.io/framework/</guid>
+      <description>Lide Framework is a library that allows you to create multiplatform graphical interfaces from Lua language. Lide uses wxWidgets to build controls and windows, this ensures the integration of your applications with GTK + on Linux and really native controls in Windows.
+Some features of lide framework are:
+✓ File manipulation: create delete write read exists ✓ Folder manipulation ✓ External functional http and https libraries ✓ External functional sql libraries ✓ Lua package installer: install, remove, search</description>
+    </item>
+    
+    <item>
+      <title>Lide Shell 0.1</title>
+      <link>https://lidesdk.github.io/shell/</link>
+      <pubDate>Mon, 09 Jul 2018 06:31:47 -0500</pubDate>
+      
+      <guid>https://lidesdk.github.io/shell/</guid>
+      <description>Lide Shell is a project that gives us the possibility to interact with a totally controlled environment for the execution of the Lide framework. It is built with different libraries that are interoperable with most Lua interpreters that are used by default.
+In addition, the Lua scripts allow us to manage different libraries or modules that are organized in &amp;ldquo;packages&amp;rdquo; according to a specific specification called lide.manifest.
+You can install lide shell on Windows OS using automatic installer:</description>
+    </item>
+    
   </channel>
 </rss>

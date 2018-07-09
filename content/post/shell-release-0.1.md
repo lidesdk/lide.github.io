@@ -4,7 +4,7 @@ date = 2018-07-09T08:12:50-05:00
 description = "First stable version of lide shell."
 draft = false
 toc = false
-categories = ["technology"]
+categories = ["releases"]
 tags = ["shell", "release"]
 images = [
   "https://source.unsplash.com/category/technology/1600x900"
