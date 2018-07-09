@@ -2,7 +2,7 @@ baseURL = "http://lidesdk.github.io"
 languageCode = "en-us"
 theme = "after-dark"
 contentdir = "content"
-publishdir = "build"
+publishdir = "public"
 builddrafts = false
 baseUrl = ""
 canonifyurls = true
@@ -10,7 +10,7 @@ author = "Hernan Dario Cano"
 disqusShortname = "lide team"
 
 [[menu.main]]
-  name = "- posts and news -"
+  name = "posts and news"
   weight = 1
   identifier = "post"
   url = "/post/"

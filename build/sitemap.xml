@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/post/shell-release-0.1/</loc>
+    <lastmod>2018-07-09T07:13:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/framework/</loc>
+    <lastmod>2018-07-09T06:41:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/shell/</loc>
+    <lastmod>2018-07-09T06:31:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-07-09T07:13:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hello/</loc>
+    <lastmod>2018-07-09T07:13:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-07-09T07:13:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-07-09T07:13:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/technology/</loc>
+    <lastmod>2018-07-09T07:13:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/world/</loc>
+    <lastmod>2018-07-09T07:13:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
