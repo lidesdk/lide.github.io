@@ -9,9 +9,7 @@ For the sake of this example, let’s pretend the subfolder containing your site
 Remove the `public` directory from the project’s `.gitignore` and remove tree.
 
 ```sh
-rmdir /S /Q "public" && git branch -D master && hugo
-git add public && git commit -m "Update page"
-git subtree split --prefix public/ -b master && git push -f origin master:master
+rmdir /S /Q "public" && git branch -D master && hugo --cleanDestinationDir &&  git add public && git commit -m "Update page release" && git subtree split --prefix public/ -b master && git push -f origin master:master
 ```
 
 

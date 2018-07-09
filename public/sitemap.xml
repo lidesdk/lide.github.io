@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>https://lidesdk.github.io/pages/framework/</loc>
+    <loc>https://lidesdk.github.io/framework/</loc>
     <lastmod>2018-07-09T06:41:45-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lidesdk.github.io/pages/shell/</loc>
+    <loc>https://lidesdk.github.io/shell/</loc>
     <lastmod>2018-07-09T06:31:47-05:00</lastmod>
   </url>
   
@@ -36,12 +36,6 @@
   <url>
     <loc>https://lidesdk.github.io/tags/hello/</loc>
     <lastmod>2018-07-09T08:14:43-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lidesdk.github.io/pages/</loc>
-    <lastmod>2018-07-09T06:41:45-05:00</lastmod>
     <priority>0</priority>
   </url>
   
