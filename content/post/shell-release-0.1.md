@@ -1,14 +1,11 @@
 +++
 title = "lide shell release 0.1"
-date = 2018-03-27T08:12:50-05:00
+date = 2018-03-27
 description = "First stable version of lide shell."
 draft = false
 toc = false
 categories = ["releases"]
 tags = ["shell", "release"]
-images = [
-  "https://source.unsplash.com/category/technology/1600x900"
-] # overrides the site-wide open graph image
 +++
 
 Lide Shell is a project that gives us the possibility to interact with a totally controlled environment for the execution of the Lide framework. It is built with different libraries that are interoperable with most Lua interpreters that are used by default.
@@ -21,7 +18,7 @@ Download [shell-installer for Windows 10.](https://github.com/lidesdk/shell/rele
 
 ```
 Required OS: Windows XP to Windows 10
-Release date: 08/08/2018
+Release date: 07/08/2018
 Release version: 0.1
 Framework version: 0.1
 ```

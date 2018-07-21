@@ -1,7 +1,7 @@
 +++
 title= "Lide Shell 0.1"
-date = 2018-03-27T08:12:50-05:00
-publishdate = "2018-07-07T02:31:22+08:00"
+date= 2018-07-08
+publishdate = 2018-07-21
 draft= false
 tags = ["shell", "release"]
 +++
@@ -12,13 +12,13 @@ In addition, the Lua scripts allow us to manage different libraries or modules t
 
 You can install lide shell on Windows OS using automatic installer:
 
-Download [shell-installer for Windows 10.](https://github.com/lidesdk/shell/releases/download/v0.1-beta/shell-installer-0.1-11.exe).
+Download [shell-installer for Windows 10.](https://github.com/lidesdk/shell/releases/download/0.1.12/shell-installer-0.1-12.exe).
 
 ```
 Required OS: Windows XP to Windows 10
 Release date: 08/08/2018
-Release version: 0.1
-Framework version: 0.1
+Release version: 0.1.12
+Framework version: 0.1.12
 ```
 
 
