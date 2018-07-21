@@ -17,9 +17,9 @@
       <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://lidesdk.github.io/framework/</guid>
-      <description>Lide Framework is a library that allows you to create multiplatform graphical interfaces from Lua language. Lide uses wxWidgets to build controls and windows, this ensures the integration of your applications with GTK + on Linux and really native controls in Windows.
+      <description>Release date: 07/08/2018 Release version: 0.1.12  Lide Framework is a library that allows you to create multiplatform graphical interfaces from Lua language. Lide uses wxWidgets to build controls and windows, this ensures the integration of your applications with GTK + on Linux and really native controls in Windows.
 Some features of lide framework are:
-✓ File manipulation: create delete write read exists ✓ Folder manipulation ✓ External functional http and https libraries ✓ External functional sql libraries ✓ Lua package installer: install, remove, search</description>
+ File manipulation: create, delete, write, read, exists. Folder manipulation. External functional http and https libraries.</description>
     </item>
     
   </channel>

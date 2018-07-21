@@ -6,10 +6,19 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jul 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jul 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://lidesdk.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>lide shell release 0.1.12 &#34;first patch&#34;</title>
+      <link>https://lidesdk.github.io/post/shell-release-0.1.12/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://lidesdk.github.io/post/shell-release-0.1.12/</guid>
+      <description>This version is called the first patch because on this version numerous bugs are fixed and we apply corrections to the code, the first patch of 0.1 version is the most important patch because has security features and updates about github api and repository databases structure. With this version you can do specific version installs, update modules and execute lide in arm architectures (aarch64). Many changes are added and fixed bugs, changes here:</description>
+    </item>
     
     <item>
       <title>Lide Shell 0.1</title>
@@ -28,9 +37,9 @@ You can install lide shell on Windows OS using automatic installer:</description
       <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://lidesdk.github.io/framework/</guid>
-      <description>Lide Framework is a library that allows you to create multiplatform graphical interfaces from Lua language. Lide uses wxWidgets to build controls and windows, this ensures the integration of your applications with GTK + on Linux and really native controls in Windows.
+      <description>Release date: 07/08/2018 Release version: 0.1.12  Lide Framework is a library that allows you to create multiplatform graphical interfaces from Lua language. Lide uses wxWidgets to build controls and windows, this ensures the integration of your applications with GTK + on Linux and really native controls in Windows.
 Some features of lide framework are:
-✓ File manipulation: create delete write read exists ✓ Folder manipulation ✓ External functional http and https libraries ✓ External functional sql libraries ✓ Lua package installer: install, remove, search</description>
+ File manipulation: create, delete, write, read, exists. Folder manipulation. External functional http and https libraries.</description>
     </item>
     
     <item>
