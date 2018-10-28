@@ -1,27 +1,32 @@
 +++
-title= "Lide Shell 0.1"
-date= 2018-07-08
-publishdate = 2018-07-21
+title= "Lide Shell 0.1.13"
+date= 2018-10-13
+publishdate = 2018-10-28
 draft= false
 tags = ["shell", "release"]
 +++
 
 
 ```
-Release date: 08/08/2018
-Release version: 0.1.12
-Framework version: 0.1.12
+Release date: 2018/10/13
+Release version: 0.1.13
+Framework version: 0.1.13
 Required OS: Windows XP to Windows 10
 ```
 
 
-Lide Shell is a project that gives us the possibility to interact with a totally controlled environment for the execution of the Lide framework. It is built with different libraries that are interoperable with most Lua interpreters that are used by default.
+Lide Shell is a project that gives us the possibility to interact with 
+a totally controlled environment for the execution of the Lide 
+framework. It is built with different libraries that are interoperable 
+with most Lua interpreters that are used by default.
 
-In addition, the Lua scripts allow us to manage different libraries or modules that are organized in "packages" according to a specific specification called lide.manifest.
+In addition, the Lua scripts allow us to manage different libraries 
+or modules that are organized in "packages" according to a specific 
+specification called lide.manifest.
 
 You can install lide shell on Windows OS using automatic installer:
 
-Download [shell-installer for Windows 10.](https://github.com/lidesdk/shell/releases/download/0.1.12/shell-installer-0.1-12.exe).
+Download [shell-installer for Windows 10.](https://github.com/lidesdk/shell/releases/download/0.1.13/shell-installer-0.1-13.exe).
 
 
 
@@ -29,10 +34,12 @@ Download [shell-installer for Windows 10.](https://github.com/lidesdk/shell/rele
 <img src="/screenshot.png" 
 alt="Lide shell cmd screenshot" width="430" height="266" border="0" />
 
-Please [read our documentation about this version.](http://lide-framework.readthedocs.io/en/0.1/) for more information about how to use and tutorials for lide.
+Please [read our documentation about this version.](http://lide-framework.readthedocs.io/en/0.1/) for more information 
+about how to use and tutorials for lide.
 
 With lide shell you can:
 
 - Execute lua scripts.
-- Manage lide packages (lua libraries representation) `install, delete, update, search`.
+- Manage lide packages (lua libraries representation) 
+  `install, delete, update, search`.
 - Link packages with dependencies.
