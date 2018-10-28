@@ -6,6 +6,15 @@ draft= false
 tags = ["shell", "release"]
 +++
 
+
+```
+Release date: 08/08/2018
+Release version: 0.1.12
+Framework version: 0.1.12
+Required OS: Windows XP to Windows 10
+```
+
+
 Lide Shell is a project that gives us the possibility to interact with a totally controlled environment for the execution of the Lide framework. It is built with different libraries that are interoperable with most Lua interpreters that are used by default.
 
 In addition, the Lua scripts allow us to manage different libraries or modules that are organized in "packages" according to a specific specification called lide.manifest.
@@ -14,12 +23,7 @@ You can install lide shell on Windows OS using automatic installer:
 
 Download [shell-installer for Windows 10.](https://github.com/lidesdk/shell/releases/download/0.1.12/shell-installer-0.1-12.exe).
 
-```
-Required OS: Windows XP to Windows 10
-Release date: 08/08/2018
-Release version: 0.1.12
-Framework version: 0.1.12
-```
+
 
 
 <img src="/screenshot.png" 
