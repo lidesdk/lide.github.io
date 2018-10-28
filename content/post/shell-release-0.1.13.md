@@ -16,7 +16,6 @@ done.
 A new version of inifile was written using lide framework.
 
 
-[0.1.13] (cce8e4d)
 - Add luacurl to runtime.
 - Security patches.
 - lide.http 0.2.1.
