@@ -8,8 +8,16 @@ For the sake of this example, let’s pretend the subfolder containing your site
 
 Remove the `public` directory from the project’s `.gitignore` and remove tree.
 
-```sh
+Windows:
+
+```dos
 rmdir /S /Q "public" && git branch -D master && hugo --cleanDestinationDir &&  git add public && git commit -m "Update page release" && git subtree split --prefix public/ -b master && git push -f origin master:master
+```
+
+Linux:
+
+```sh
+rm -rf "public" && git branch -D master && hugo --cleanDestinationDir &&  git add public && git commit -m "Update page release" && git subtree split --prefix public/ -b master && git push -f origin master:master
 ```
 
 Boom. If your folder isn’t called `public`, then you’ll need to change that in each of the commands above.
