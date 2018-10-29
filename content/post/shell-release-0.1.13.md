@@ -13,8 +13,14 @@ It's called first security patch because on this version all updates
 are related to security. Update is required because numerous fixes are
 done.
 
-A new version of inifile was written using lide framework.
+A new version of inifile was written using lide framework because two
+existing had issues with encoding in all operating systems.
 
+New version of luacurl and ssl this approach ensures connections of
+lide with last HTTP REST APIs.
+
+Update lide.core and lide.base to execute code on linux arm, i'm 
+coding a shell that runs on Linux ARM too.
 
 - Add luacurl to runtime.
 - Security patches.

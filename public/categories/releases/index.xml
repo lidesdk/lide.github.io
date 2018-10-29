@@ -18,9 +18,9 @@
       
       <guid>https://lidesdk.github.io/post/shell-release-0.1.13/</guid>
       <description>It&amp;rsquo;s called first security patch because on this version all updates are related to security. Update is required because numerous fixes are done.
-A new version of inifile was written using lide framework.
-0.1.13 - Add luacurl to runtime. - Security patches. - lide.http 0.2.1. - Change inifile for inifile 0.1 (lide based). - Added repos-api. - Fix: Update lide interpreter for Linux
-Required OS: Windows XP to Windows 10 Release date: 10/13/2018 Release version: 0.</description>
+A new version of inifile was written using lide framework because two existing had issues with encoding in all operating systems.
+New version of luacurl and ssl this approach ensures connections of lide with last HTTP REST APIs.
+Update lide.core and lide.base to execute code on linux arm, i&amp;rsquo;m coding a shell that runs on Linux ARM too.</description>
     </item>
     
     <item>
