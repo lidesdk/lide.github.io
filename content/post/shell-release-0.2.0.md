@@ -9,11 +9,13 @@ tags = ["shell", "release"]
 +++
 
 
-With this version we release x86 binaries for Windows and x86 and x64 for Linux.
+We release x86 binaries for Windows and x86 and x64 for Linux.
 
-This is because wxLua x64 binaries has not yet been compiled but some libraries are ported now: lfs, base64, ssl.
+This is because wxLua x64 binaries has not yet been compiled but some 
+libraries are ported now: lfs, base64, ssl.
 
-All base and stable libraries are tested and framework widgets classes are fully implemented with some exceptions.
+All base and stable libraries are tested and framework widgets classes 
+are fully implemented with some exceptions.
 
 Changes or new features:
 

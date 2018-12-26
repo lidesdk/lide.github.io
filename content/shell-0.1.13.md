@@ -1,17 +1,17 @@
 +++
-title= "Lide Shell 0.2"
-date= 2018-12-23
-publishdate = 2018-12-23
+title= "Lide Shell 0.1.13"
+date= 2018-10-13
+publishdate = 2018-10-28
 draft= false
 tags = ["shell", "release"]
 +++
 
 
 ```
-Release date: 2018/12/23
-Release version: 0.2.0
-Framework version: 0.2.0
-Required OS: Windows 7 to Windows 10
+Release date: 2018/10/13
+Release version: 0.1.13
+Framework version: 0.1.13
+Required OS: Windows XP to Windows 10
 ```
 
 
@@ -26,14 +26,15 @@ specification called lide.manifest.
 
 You can install lide shell on Windows OS using automatic installer:
 
-Download [shell-installer for Windows 10.](https://github.com/lidesdk/shell/releases/download/0.2.0/setup-0.2.0.exe).
+Download [shell-installer for Windows 10.](https://github.com/lidesdk/shell/releases/download/0.1.13/shell-installer-0.1-13.exe).
+
 
 
 
 <img src="/screenshot.png" 
 alt="Lide shell cmd screenshot" width="430" height="266" border="0" />
 
-Please [read our documentation about this version.](http://lide-framework.readthedocs.io/en/0.2/) for more information 
+Please [read our documentation about this version.](http://lide-framework.readthedocs.io/en/0.1/) for more information 
 about how to use and tutorials for lide.
 
 With lide shell you can:
