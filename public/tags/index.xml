@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>https://lidesdk.github.io/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lidesdk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Framework</title>
+      <link>https://lidesdk.github.io/tags/framework/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lidesdk.github.io/tags/framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release</title>
+      <link>https://lidesdk.github.io/tags/release/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://lidesdk.github.io/tags/release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shell</title>
+      <link>https://lidesdk.github.io/tags/shell/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://lidesdk.github.io/tags/shell/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
