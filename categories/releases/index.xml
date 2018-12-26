@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Releases on </title>
+    <link>https://lidesdk.github.io/categories/releases/</link>
+    <description>Recent content in Releases on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Dec 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://lidesdk.github.io/categories/releases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>lide shell release 0.2.0 &#34;third patch&#34;</title>
+      <link>https://lidesdk.github.io/post/shell-release-0.2.0/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://lidesdk.github.io/post/shell-release-0.2.0/</guid>
+      <description>We release x86 binaries for Windows and x86 and x64 for Linux.
+This is because wxLua x64 binaries has not yet been compiled but some libraries are ported now: lfs, base64, ssl.
+All base and stable libraries are tested and framework widgets classes are fully implemented with some exceptions.
+Changes or new features:
+ lide framework 0.2 lide.http 0.2.1 lide.sql 0.2 add firebird support. Specific depend version install lide.platform supports: arm64 (aarch64) Included wx 2.</description>
+    </item>
+    
+    <item>
+      <title>lide shell release 0.1.13 &#34;security patch&#34;</title>
+      <link>https://lidesdk.github.io/post/shell-release-0.1.13/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://lidesdk.github.io/post/shell-release-0.1.13/</guid>
+      <description>It&amp;rsquo;s called first security patch because on this version all updates are related to security. Update is required because numerous fixes are done.
+A new version of inifile was written using lide framework because two existing had issues with encoding in all operating systems.
+New version of luacurl and ssl this approach ensures connections of lide with last HTTP REST APIs.
+Update lide.core and lide.base to execute code on linux arm, i&amp;rsquo;m coding a shell that runs on Linux ARM too.</description>
+    </item>
+    
+    <item>
+      <title>lide shell release 0.1.12 &#34;first patch&#34;</title>
+      <link>https://lidesdk.github.io/post/shell-release-0.1.12/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://lidesdk.github.io/post/shell-release-0.1.12/</guid>
+      <description>This version is called the first patch because on this version numerous bugs are fixed and we apply corrections to the code, the first patch of 0.1 version is the most important patch because has security features and updates about github api and repository databases structure. With this version you can do specific version installs, update modules and execute lide in arm architectures (aarch64). Many changes are added and fixed bugs, changes here:</description>
+    </item>
+    
+    <item>
+      <title>lide shell release 0.1</title>
+      <link>https://lidesdk.github.io/post/shell-release-0.1/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://lidesdk.github.io/post/shell-release-0.1/</guid>
+      <description>Lide Shell is a project that gives us the possibility to interact with a totally controlled environment for the execution of the Lide framework. It is built with different libraries that are interoperable with most Lua interpreters that are used by default.
+In addition, the Lua scripts allow us to manage different libraries or modules that are organized in &amp;ldquo;packages&amp;rdquo; according to a specific specification called lide.manifest.
+You can install lide shell on Windows OS using automatic installer:</description>
+    </item>
+    
+  </channel>
+</rss>
