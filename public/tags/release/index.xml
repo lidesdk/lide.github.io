@@ -6,10 +6,22 @@
     <description>Recent content in Release on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Oct 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 23 Dec 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://lidesdk.github.io/tags/release/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>lide shell release 0.2.0 &#34;third patch&#34;</title>
+      <link>https://lidesdk.github.io/post/shell-release-0.2.0/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://lidesdk.github.io/post/shell-release-0.2.0/</guid>
+      <description>With this version we release x86 binaries for Windows and x86 and x64 for Linux.
+This is because wxLua x64 binaries has not yet been compiled but some libraries are ported now: lfs, base64, ssl.
+All base and stable libraries are tested and framework widgets classes are fully implemented with some exceptions.
+ ✓ lide framework 0.2 ✓ lide.platform supports: arm (aarch64, armv7l, arm64) ✓ lide.http 0.2.1 (is available as stable version) ✓ lide.</description>
+    </item>
     
     <item>
       <title>Lide Shell 0.1.13</title>

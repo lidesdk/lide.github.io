@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lidesdk.github.io/post/shell-release-0.2.0/</loc>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lidesdk.github.io/shell/</loc>
     <lastmod>2018-10-13T00:00:00-05:00</lastmod>
   </url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>https://lidesdk.github.io/</loc>
-    <lastmod>2018-10-13T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -46,25 +51,25 @@
   
   <url>
     <loc>https://lidesdk.github.io/post/</loc>
-    <lastmod>2018-10-13T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lidesdk.github.io/tags/release/</loc>
-    <lastmod>2018-10-13T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lidesdk.github.io/categories/releases/</loc>
-    <lastmod>2018-10-13T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lidesdk.github.io/tags/shell/</loc>
-    <lastmod>2018-10-13T00:00:00-05:00</lastmod>
+    <lastmod>2018-12-23T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   

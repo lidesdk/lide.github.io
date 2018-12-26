@@ -13,12 +13,12 @@ author = "Hernan Dario Cano"
   identifier = "post"
   url = "/"
 [[menu.main]]
-  name = "lide shell"
-  weight = 2
-  identifier = "lide-shell"
-  url = "/shell/"
-[[menu.main]]
   name = "lide framework"
-  weight = 3
+  weight = 2
   identifier = "lide-framework"
   url = "/framework/"
+[[menu.main]]
+  name = "shell"
+  weight = 3
+  identifier = "lide-shell"
+  url = "/shell/"
